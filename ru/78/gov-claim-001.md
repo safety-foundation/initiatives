@@ -98,4 +98,4 @@
 [Георгий А. Куприянов](http://vk.com/jorge), [1spb.org](http://1spb.org),
 года 2020-го, ноября 30-го числа, 6 часов 43 минуты пополуночи.
 
-Дискуссия / Discuss: https://github.com/safety-foundation/initiatives/discussions/2
+[Дискуссия / Discuss: Iinitiatives, #2](https://github.com/safety-foundation/initiatives/discussions/2)
