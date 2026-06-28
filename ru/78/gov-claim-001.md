@@ -18,10 +18,7 @@
 
 * Как это реализовано, например, в Норвегии: [Пример города Осло](https://letsbikeit.ru/2020/05/oslo-vision-zero/)
 * [Репозиторий информации о Vision Zero: мировой опыт](https://github.com/safety-foundation/vzi-docs)
-* [Законопроект о нулевой смертности в ДТП](https://besedina.moscow/bills), предложенный к рассмотрению в Мосгордуму.
-Его текст: [оригинал](https://besedina.moscow/uploads/bills/files/51_1606393186.docx) и [отредактированный](https://besedina.moscow/uploads/bills/files/55_1606395685.docx)
-* [Инициатива городского проекта](https://vk.com/wall-64779227_7168), победившая в конкурсе ГП Ильи Варламова и Максима Каца
-* [Также и моя инициатива](https://vk.com/wall599068_6828) и [опрос](https://vk.com/wall599068_7303)
+* [Моя инициатива](https://vk.com/wall599068_6828) и [опрос](https://vk.com/wall599068_7303)
 
 ### Устранить транспортный коллапс в Санкт-Петербурге
 
